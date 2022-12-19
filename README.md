@@ -6,6 +6,9 @@
 
 ## SHELL
 
++ [How to Change Shell in Linux](https://linuxhandbook.com/change-shell-linux/)
++ 
+
 
 ### [Install Zsh and Make it default Shell in Linux](https://linuxhandbook.com/install-zsh/)
 
@@ -32,6 +35,8 @@
 
 ### [fish shell](https://fishshell.com/)
 
++ [fish-shell/fish-shell: The user-friendly command line shell.](https://github.com/fish-shell/fish-shell)
++ 
 + [Introduction — fish-shell 3.5.1 documentation](https://fishshell.com/docs/current/index.html)
 
 ![image](https://user-images.githubusercontent.com/5669657/208444445-c2b36cf7-e2a3-49ee-bc6c-c1145aad992a.png)
