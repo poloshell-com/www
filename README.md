@@ -17,7 +17,24 @@
 + [StartupFiles/zshrc · master · zsh-org / zsh · GitLab](https://gitlab.com/zsh-org/zsh/-/blob/master/StartupFiles/zshrc)
 
 
- How to install Zsh
+### MOSH
+
+[Mosh: the mobile shell](https://mosh.org/#getting)
+
+> # Mosh
+> 
+> ## (mobile shell)
+> 
+> Remote terminal application that allows **roaming**, supports **intermittent connectivity**, and provides intelligent **local echo** and line editing of user keystrokes.
+> 
+> Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.
+> 
+> Mosh is free software, available for GNU/Linux, BSD, macOS, Solaris, Android, Chrome, and iOS.
+
+
+
+
+## How to install Zsh
 > 
 > This tutorial is tested on Ubuntu 18.04 LTS. It should work with other versions of Ubuntu as well. If not, tell us in the comments.
 > 
