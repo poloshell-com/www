@@ -4,6 +4,10 @@
 + SpeechCli
 
 
+![Poloshell2](poloshell2.png)
+
+
+
 ## SHELL
 
 + [How to Change Shell in Linux](https://linuxhandbook.com/change-shell-linux/)
