@@ -19,6 +19,10 @@
 + [How to Change Shell in Linux](https://linuxhandbook.com/change-shell-linux/)
 + 
 
+## How to create own shell
+
++ [Making your own Linux Shell in C - GeeksforGeeks](https://www.geeksforgeeks.org/making-linux-shell-c/)
+
 
 ### [Install Zsh and Make it default Shell in Linux](https://linuxhandbook.com/install-zsh/)
 
